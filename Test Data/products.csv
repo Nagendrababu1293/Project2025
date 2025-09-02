@@ -1,0 +1,8 @@
+ProductID,ProductName,Category,Price,Stock,LaunchDate
+201,Keyboard,Electronics,1500,120,15-01-2022
+202,Mouse,Electronics,700,300,20-11-2021
+203,Monitor,Electronics,8500,50,10-06-2023
+204,Office Chair,Furniture,4500,75,05-08-2021
+205,Water Bottle,Kitchen,250,500,12-03-2022
+206,Notebook,Stationery,80,1000,25-01-2023
+207,LED Bulb,Electrical,120,800,10-09-2020
